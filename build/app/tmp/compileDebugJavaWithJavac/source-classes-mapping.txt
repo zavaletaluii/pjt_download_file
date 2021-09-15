@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/lzavaleta/pjt_download_file/BuildConfig.java
+ com.lzavaleta.pjt_download_file.BuildConfig

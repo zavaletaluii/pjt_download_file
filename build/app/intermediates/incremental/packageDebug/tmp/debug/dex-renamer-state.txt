@@ -1,0 +1,4 @@
+#Wed Aug 18 17:08:38 CDT 2021
+base.0=/Users/luiszavaleta/Workspace/flutter/pjt_download_file/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
